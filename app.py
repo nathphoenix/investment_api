@@ -186,7 +186,7 @@ def invest():
 def email():
     
     return render_template("emailmsg.html")
-    
+
 
 
 @app.route('/all_savings')
